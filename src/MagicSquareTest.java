@@ -1,6 +1,7 @@
 import static org.junit.jupiter.api.Assertions.*;
 
-class MagicSquareTest {
+class
+MagicSquareTest {
 
     private int[][] array2d;
     private int[][] array2d2;
